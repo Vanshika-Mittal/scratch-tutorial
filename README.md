@@ -1,4 +1,4 @@
-# scratch-tutorial
+# Scratch Tutorial
 Scratch Tutorial for Educators to Teach Scratch
 
 * Lesson 1 - Scratch-Basics - A comprehensive introduction to Scratch containing activities as well as projects to get started.
